@@ -1,3 +1,5 @@
+### Grupo: Elisa Morais, Eduarda Birck e Pedro Bueno.
+
 import numpy as np
 import scipy
 import matplotlib.pyplot as plt
